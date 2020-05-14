@@ -9,10 +9,6 @@
                 "text": "step1.md"
             },
              {
-                "title": "What is OpenAPI Generator?",
-                "text": "step2.md"
-            },
-             {
                 "title": "Install OpenAPI Generator",
                 "text": "step3.md"
             },
