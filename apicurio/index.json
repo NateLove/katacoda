@@ -1,0 +1,6 @@
+"environment": {
+    "uilayout": "iframe"
+},
+"backend": {
+    "url": "https://httpbin.org"
+}
