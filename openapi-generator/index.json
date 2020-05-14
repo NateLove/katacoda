@@ -20,9 +20,7 @@
         "hideintro": true,
         "showdashboard": true,
         "dashboards": [
-            {"name": "URL", "href": "https://www.katacoda.com"},
-            {"name": "Port 80", "port": 80},
-            {"name": "Placeholder", "href": "https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/swagger-ui.html"}],
+            {"name": "Swagger-UI", "href": "https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/swagger-ui.html"}],
         "uilayout": "terminal-iframe"
     },
     "backend": {
