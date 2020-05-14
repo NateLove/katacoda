@@ -20,5 +20,5 @@
    ```{{copy}}
 
    - Validate you can run the application
-      - Run `mvn spring-boot:run`
-      - Navigate to `localhost:8080/swagger-ui.html`
+      - Run `mvn spring-boot:run`{{execute}}
+      - Navigate to the Swagger UI tab, a refresh may be necessary 
