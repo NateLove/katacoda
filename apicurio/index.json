@@ -17,6 +17,6 @@
     },
     "backend": {
         "imageid": "bash",
-        "url": "https://studio-auth.apicur.io/auth/realms/apicurio/protocol/openid-connect/auth?response_type=code&client_id=apicurio-studio&redirect_uri=https%3A%2F%2Fstudio.apicur.io%2Fdashboard&state=f2e3a893-550c-4a0e-bc40-0545206ed02d&login=true&scope=openid"
+        "url": "https://studio.apicur.io/dashboard"
     }
 }
