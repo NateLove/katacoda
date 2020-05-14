@@ -5,8 +5,48 @@
     "details": {
         "steps": [
             {
-                "title": "",
+                "title": "Intro",
                 "text": "step1.md"
+            },
+             {
+                "title": "What is OpenAPI Generator?",
+                "text": "step2.md"
+            },
+             {
+                "title": "Install OpenAPI Generator",
+                "text": "step3.md"
+            },
+             {
+                "title": "Clone OpenAPI Specification File",
+                "text": "step4.md"
+            },
+             {
+                "title": "View OpenAPI Generator Documentation (Optional)",
+                "text": "step5.md"
+            },
+             {
+                "title": "Generate Spring Boot Application",
+                "text": "step6.md"
+            },
+             {
+                "title": "POM Updates",
+                "text": "step7.md"
+            },
+             {
+                "title": "View the Code",
+                "text": "step8.md"
+            },
+             {
+                "title": "Implement the TodoApi.java",
+                "text": "step9.md"
+            },
+             {
+                "title": "Regenerate Code on maven builds",
+                "text": "step10.md"
+            },
+            {
+                "title": "Wrap Up",
+                "text": "step11.md"
             }
         ]
     },
