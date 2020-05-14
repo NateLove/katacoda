@@ -1,7 +1,7 @@
 
 1. Generate Spring Boot Application:
    - Run the command below, note replace todo.yaml with a path to your file.  
-   ```console
+   ```sh
    openapi-generator generate \
         -g spring \
         --library spring-boot \
@@ -21,6 +21,7 @@
         -p dateLibrary=java8 \
         -p java8=true
    ```{{execute}}
+   
    <sub>Note: that we are pointing our "sourceFolder" to "src/main/gen". Anything inside the gen folder should be treated as immutable</sub>
    
    - Open the IDE and take some time to look around the code. Take note that we are currently generating all the files related to the application inside of the "src/main/gen" folder
