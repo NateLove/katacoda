@@ -1,30 +1,25 @@
 {
     "noindex": true,
-    "title": "OpenAPI Generator",
-    "description": "Lab for generating code with OpenAPI Generator",
+    "title": "Scenario with Terminal and VS code UI",
+    "description": "Katacoda Scenario Example",
     "details": {
         "steps": [
             {
-                "title": "Intro",
+                "title": "",
                 "text": "step1.md"
-            },
-             {
-                "title": "Install OpenAPI Generator",
-                "text": "step2.md"
-            },
+            }
         ]
     },
+    "files": [
+        "app.js", "index.js"
+    ],
     "environment": {
+        "uieditorpath": "/root/example",
         "showide": true,
         "idePort": 23000,
-        "hideintro": true,
-        "showdashboard": true,
-        "dashboards": [
-            {"name": "Swagger-UI", "href": "https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/swagger-ui.html"}],
-        "uilayout": "terminal-iframe"
+        "uilayout": "terminal"
     },
     "backend": {
-      "imageid": "ubuntu",
-      "port": 80
+        "imageid": "ubuntu"
     }
 }
