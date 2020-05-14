@@ -17,6 +17,6 @@
     },
     "backend": {
         "imageid": "bash",
-        "url": "https://apicur.io"
+        "url": "https://studio.apicur.io/dashboard"
     }
 }
