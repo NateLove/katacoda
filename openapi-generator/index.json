@@ -7,7 +7,7 @@
             {
                 "title": "",
                 "text": "step1.md",
-                "courseData": "background.sh"
+                "code": "background.sh"
             },
             {
                 "title": "Install OpenAPI Generator",
