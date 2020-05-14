@@ -1,6 +1,6 @@
 
 - Create a `src/main/java` source folder
-      - This is the folder we will be putting all the code we plan on modifying
+  - This is the folder we will be putting all the code we plan on modifying
 - Move `TodoApiController.java` from the `src/main/gen` folder to the same package inside the `src/main/java` folder
 - Stub the getTodo by adding the following method:
      ```java
