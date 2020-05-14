@@ -8,41 +8,41 @@
                 "title": "",
                 "text": "step1.md"
             },
-             {
+            {
                 "title": "Install OpenAPI Generator",
-                "text": "step3.md"
+                "text": "step2.md"
             },
              {
                 "title": "Download OpenAPI Specification File",
-                "text": "step4.md"
+                "text": "step3.md"
             },
              {
                 "title": "View OpenAPI Generator Documentation (Optional)",
-                "text": "step5.md"
+                "text": "step4.md"
             },
              {
                 "title": "Generate Spring Boot Application",
-                "text": "step6.md"
+                "text": "step5.md"
             },
              {
                 "title": "POM Updates",
-                "text": "step7.md"
+                "text": "step6.md"
             },
              {
                 "title": "View the Code",
-                "text": "step8.md"
+                "text": "step7.md"
             },
              {
                 "title": "Implement the TodoApi.java",
-                "text": "step9.md"
+                "text": "step8.md"
             },
              {
                 "title": "Regenerate Code on maven builds",
-                "text": "step10.md"
+                "text": "step9.md"
             },
             {
                 "title": "Wrap Up",
-                "text": "step11.md"
+                "text": "step10.md"
             }
         ]
     },
