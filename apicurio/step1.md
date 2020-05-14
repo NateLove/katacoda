@@ -2,9 +2,8 @@
 
 In this lab we will look at managing an OpenAPI spec using Apicurio.
 
-1. Open a web browser and navigate to https://www.apicur.io/
-2. Select the `Try Live` button
-3. Login using preferred method
+1. If this is your first time using APIcurio or the web view is saying refused to connect, please navigate to https://studio.apicur.io/dashboard and sign in using one of the provided methods.
+2. Refresh the Dashboard
 4. Select APIs on the left and select `Create New API` in the sub menu
 5. Enter a name and description for the new API
 6. Select `Blank API` for the template and click `Create API`
