@@ -1,8 +1,8 @@
 
 1. Generate Spring Boot Application:
    - Run the command below, note replace todo.yaml with a path to your file.  
-   ```sh
-         openapi-generator generate \
+   ```console
+   openapi-generator generate \
         -g spring \  
         --library spring-boot \  
         -i todo.yaml \  
