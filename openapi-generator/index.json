@@ -58,7 +58,7 @@
         "dashboards": [
             {"name": "Swagger UI", "href": "https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/swagger-ui.html"}],
         "terminals": [
-            {"name": "Terminal 2", "target": "host01"},
+            {"name": "Terminal 2", "target": "host01"}
         ],
         "uilayout": "terminal"
     },
