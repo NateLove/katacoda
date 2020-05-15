@@ -47,9 +47,6 @@
             }
         ]
     },
-    "files": [
-        "app.js", "index.js"
-    ],
     "environment": {
         "hideintro": true,
         "uieditorpath": "/root/example",
@@ -60,7 +57,7 @@
         "terminals": [
             {"name": "Terminal 2", "target": "host01"}
         ],
-        "uilayout": "terminal"
+        "uilayout": "terminal-iframe"
     },
     "backend": {
         "imageid": "ubuntu",
