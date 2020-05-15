@@ -1,5 +1,5 @@
 
-   - Add the following maven plugin to your 'pom.xml'
+- Add the following maven plugin to your 'pom.xml'
      ```xml
      <plugin>
         <groupId>org.openapitools</groupId>
