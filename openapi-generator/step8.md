@@ -14,6 +14,12 @@
          return ResponseEntity.ok(response);
      }
      ``` {{copy}}
+ - Also add the following imports:
+     ```java
+     import com.redhat.todo.model.Todo;
+     import java.time.OffsetDateTime;
+     import org.springframework.http.ResponseEntity;
+     ```{{copy}}
      
 <sub>Note: we are returning a `200` response code. This is complient with our OAS specification. Currently we don't have any validation on which response code we are returning but it is best practice to follow what is specified by your OpenAPI Document. And in the future we will be looking at *Schemathesis* which will run test to validate that all expected response codes are returned</sub>
 - Prevent the regeneration of the `TodoApisController.java`
