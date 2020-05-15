@@ -1,5 +1,6 @@
 {
     "noindex": true,
+    "icon": "fa-redhat",
     "title": "Intro to OpenAPI with APIcurio",
     "description": "Learn to generate OpenAPI specs using APIcurio",
     "details": {
