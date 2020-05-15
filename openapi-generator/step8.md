@@ -25,8 +25,8 @@
       ```{{copy}}
       
 - Validate Endpoint
-  - Run `mvn spring-boot:run`{{execute}}
+  - Run `mvn spring-boot:run`{{execute Terminal}}
   - Navigate to the Swagger UI tab
-  - Validate `GET /todos/{todoId}` returns 200 stubbed data
+  - Validate `GET /todos/{todoId}` returns 200 stubbed data `curl -X GET "https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/v1/todos/test" -H "accept: application/json"`{{execute Terminal 2}}
 - Stub out other endpoints (optional)
   - Remember response codes should match your OAS document
