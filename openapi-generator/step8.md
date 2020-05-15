@@ -25,7 +25,7 @@
       ```{{copy}}
       
 - Validate Endpoint
-  - Run `mvn spring-boot:run`{{execute Terminal}}
+  - Run `mvn spring-boot:run`{{execute}}
   - Navigate to the Swagger UI tab
   - Validate `GET /todos/{todoId}` returns 200 stubbed data 
 - Stub out other endpoints (optional)
