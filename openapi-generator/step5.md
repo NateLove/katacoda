@@ -20,7 +20,7 @@
         \
         -p dateLibrary=java8 \
         -p java8=true
-   ```{{execute Terminal}}
+   ```{{execute}}
    
    <sub>Note: that we are pointing our "sourceFolder" to "src/main/gen". Anything inside the gen folder should be treated as immutable</sub>
    
