@@ -38,5 +38,5 @@
      
 - Explore the new OAS file being pulled from github
   - Note the new `user` schema as well as the new paths associated with the new user object
-- Validate that `TodoApisController.java` has been deleted from your gen folder and regenerate your files with `mvn generate-sources`{{execute}}
+- Validate that `TodoApisController.java` has been deleted from your gen folder and regenerate your files with `mvn generate-sources`{{execute Terminal}}
 - Validate `api/UsersApi.java` and `model/User.java` are generated and the Controller.java are not being generated
