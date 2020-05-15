@@ -1,5 +1,6 @@
 {
 	"noindex": true,
+	"icon": "fa-redhat",
 	"title": "OpenAPI Generator",
 	"description": "Introduction to code generation with OpenAPI Generator",
 	"details": {
