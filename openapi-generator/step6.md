@@ -20,5 +20,5 @@
    ```{{copy}}
 
    - Validate you can run the application
-      - Run `mvn spring-boot:run`{{execute}}
+      - Run `mvn spring-boot:run`{{execute Terminal}}
       - Navigate to the Swagger UI tab, a refresh may be necessary 
