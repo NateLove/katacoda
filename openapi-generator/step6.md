@@ -19,6 +19,6 @@
     </plugin>
    ```{{copy}}
 
-   - Validate you can run the application
-      - Run `mvn spring-boot:run`{{execute}}
-      - Navigate to the Swagger UI tab, a refresh may be necessary 
+- Validate you can run the application
+  - Run `mvn spring-boot:run`{{execute}}
+  - Navigate to the Swagger UI tab, a refresh may be necessary 
